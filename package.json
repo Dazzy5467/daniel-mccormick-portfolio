@@ -1,0 +1,14 @@
+{
+  "name": "daniel-mccormick-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daniel McCormick — Applied AI, Research & Business Systems",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
