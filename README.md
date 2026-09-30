@@ -4,6 +4,8 @@
 
 A responsive one-page portfolio exploring how research, thoughtful workflows, and practical digital tools can make complex work easier to use.
 
+**Live website:** [daniel-mccormick-portfolio.vercel.app](https://daniel-mccormick-portfolio.vercel.app/)
+
 ## Selected work
 
 - MyKidsLunch Delivery
@@ -48,6 +50,8 @@ The website uses semantic HTML, CSS, and JavaScript. Features include six projec
 ## Deploy with Vercel
 
 Import this repository as a new project. The included `vercel.json` selects the **Other** framework preset, skips installation and building, and serves only `public/`.
+
+The live Vercel project is connected to this repository's `main` branch. Updates pushed to `main` can deploy automatically. The published HTML, CSS, JavaScript, and favicon were verified against the reviewed release on September 30, 2026.
 
 ## Continue in v0
 
